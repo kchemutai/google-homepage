@@ -1,15 +1,70 @@
-.apps{
-background-image: url('images/download.png');
+
+.nav{ 
+    float: right; 
 }
-.nav{
-    float: right;
-    
-}
-.logo{
- background-image:  url('');
+.nav a{
+    display: inline;
+    padding: 3px;
+    text-decoration: none;
 }
 #apps-image{
     width: 20px;
     height: 20px;
-    
+}
+.footer-right{
+    float: right;
+}
+.footer-left{
+    float: left;
+}
+li{
+    display: inline;
+    color: blue;
+}
+#logo{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 150px;
+    padding-bottom: 20px;
+    width: 300px;
+}
+#sign-in{
+background:#4887ef;
+border-radius: 3px;
+color: #fff;
+text-decoration:none;
+ font-weight: bold;
+}
+a{
+    text-decoration: none;
+    padding: 3px;
+}
+a:hover{
+text-decoration: underline;
+}
+#txt-box{
+    width:600px;
+    height: 30px;
+}
+.buttons{
+    display: inline;
+    text-align: right;
+}
+.text-box{
+   
+    padding:30px;
+    padding-top: 5px;
+   text-align: center;
+}
+.language{
+    text-align: center;
+    padding-bottom: 100px;
+}
+#button{
+    text-align: center;
+}
+.content{
+text-align: center;
 }
