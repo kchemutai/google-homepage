@@ -1,3 +1,15 @@
 .apps{
 background-image: url('images/download.png');
 }
+.nav{
+    float: right;
+    
+}
+.logo{
+ background-image:  url('');
+}
+#apps-image{
+    width: 20px;
+    height: 20px;
+    
+}
